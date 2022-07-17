@@ -1,4 +1,4 @@
 # KaggleCompetition_Predicting_Effective_Arguments
 Repository for my project on the Kaggle competition "Feedback Prize - Predicting Effective Arguments - Rate the effectiveness of argumentative writing elements from students grade 6-12". The goal of this competition is to classify argumentative elements in student writing as "effective", "adequate" or "ineffective" creating a model using data that is representative of the 6th-12th grade population in the United States. The purpose is to provide students enhanced feedback on their argumentative writing with automated guidance using machine learning.
 
-This repository contains the first steps of the project, including the EDA (Exploratory Data Analysis) to analyse the training set. The algorithm to classify the argumentative elements is under development and wil be shared soon.
+This repository contains the first steps of the project, including the EDA (Exploratory Data Analysis) to investigate the training set. The algorithm to classify the argumentative elements is under development and wil be shared soon.
